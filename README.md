@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 I am a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ghana.
-- :telescope: I’m currently a student at Microverse learning as a Full-Stack developer and contributing to frontend and backend for building web applications with developers all over the globe.
+- :telescope: I’m currently a Full-Stack developer and contributing to frontend and backend for building web applications with developers all over the globe.
 
 - :seedling: Exploring Technical Content Writing.
 
